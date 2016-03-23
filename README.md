@@ -1,3 +1,8 @@
-# cordova-plugin-admob-inmobi
 
-Fix for the broken version available in the repo. Install https://github.com/sim-o/cordova-inmobi-sdk first.
+AdMob Mediation Adapter for InMobi
+
+# How to Use #
+
+```bash
+cordova plugin add cordova-plugin-admob-inmobi
+```
